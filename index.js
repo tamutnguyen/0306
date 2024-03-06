@@ -14,7 +14,7 @@ const COST_PER_PIZZA = 18.75;
 
 //document.getElementById("total").textContent = msg;
 const btnCal = document.getElementById("btnCalculate");
-
+/////
 function Calculation() {
   //let describe variable just use in block?!
   //name input specific in the form
